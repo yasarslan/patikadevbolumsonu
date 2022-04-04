@@ -1,2 +1,2 @@
 # patikadevbolumsonu
-patika.dev Bolum sonu calismasi
+www.patika.dev Bolum sonu calismasi
